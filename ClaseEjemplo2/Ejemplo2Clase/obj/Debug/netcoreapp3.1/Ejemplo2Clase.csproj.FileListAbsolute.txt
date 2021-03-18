@@ -1,0 +1,13 @@
+C:\Users\Anner\source\repos\Ejemplo2Clase\Ejemplo2Clase\bin\Debug\netcoreapp3.1\Ejemplo2Clase.exe
+C:\Users\Anner\source\repos\Ejemplo2Clase\Ejemplo2Clase\bin\Debug\netcoreapp3.1\Ejemplo2Clase.deps.json
+C:\Users\Anner\source\repos\Ejemplo2Clase\Ejemplo2Clase\bin\Debug\netcoreapp3.1\Ejemplo2Clase.runtimeconfig.json
+C:\Users\Anner\source\repos\Ejemplo2Clase\Ejemplo2Clase\bin\Debug\netcoreapp3.1\Ejemplo2Clase.runtimeconfig.dev.json
+C:\Users\Anner\source\repos\Ejemplo2Clase\Ejemplo2Clase\bin\Debug\netcoreapp3.1\Ejemplo2Clase.dll
+C:\Users\Anner\source\repos\Ejemplo2Clase\Ejemplo2Clase\bin\Debug\netcoreapp3.1\Ejemplo2Clase.pdb
+C:\Users\Anner\source\repos\Ejemplo2Clase\Ejemplo2Clase\obj\Debug\netcoreapp3.1\Ejemplo2Clase.csprojAssemblyReference.cache
+C:\Users\Anner\source\repos\Ejemplo2Clase\Ejemplo2Clase\obj\Debug\netcoreapp3.1\Ejemplo2Clase.AssemblyInfoInputs.cache
+C:\Users\Anner\source\repos\Ejemplo2Clase\Ejemplo2Clase\obj\Debug\netcoreapp3.1\Ejemplo2Clase.AssemblyInfo.cs
+C:\Users\Anner\source\repos\Ejemplo2Clase\Ejemplo2Clase\obj\Debug\netcoreapp3.1\Ejemplo2Clase.csproj.CoreCompileInputs.cache
+C:\Users\Anner\source\repos\Ejemplo2Clase\Ejemplo2Clase\obj\Debug\netcoreapp3.1\Ejemplo2Clase.dll
+C:\Users\Anner\source\repos\Ejemplo2Clase\Ejemplo2Clase\obj\Debug\netcoreapp3.1\Ejemplo2Clase.pdb
+C:\Users\Anner\source\repos\Ejemplo2Clase\Ejemplo2Clase\obj\Debug\netcoreapp3.1\Ejemplo2Clase.genruntimeconfig.cache

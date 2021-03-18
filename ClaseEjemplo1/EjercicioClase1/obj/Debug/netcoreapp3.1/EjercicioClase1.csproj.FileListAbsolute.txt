@@ -1,0 +1,12 @@
+C:\Users\Anner\source\repos\EjercicioClase1\EjercicioClase1\bin\Debug\netcoreapp3.1\EjercicioClase1.exe
+C:\Users\Anner\source\repos\EjercicioClase1\EjercicioClase1\bin\Debug\netcoreapp3.1\EjercicioClase1.deps.json
+C:\Users\Anner\source\repos\EjercicioClase1\EjercicioClase1\bin\Debug\netcoreapp3.1\EjercicioClase1.runtimeconfig.json
+C:\Users\Anner\source\repos\EjercicioClase1\EjercicioClase1\bin\Debug\netcoreapp3.1\EjercicioClase1.runtimeconfig.dev.json
+C:\Users\Anner\source\repos\EjercicioClase1\EjercicioClase1\bin\Debug\netcoreapp3.1\EjercicioClase1.dll
+C:\Users\Anner\source\repos\EjercicioClase1\EjercicioClase1\bin\Debug\netcoreapp3.1\EjercicioClase1.pdb
+C:\Users\Anner\source\repos\EjercicioClase1\EjercicioClase1\obj\Debug\netcoreapp3.1\EjercicioClase1.AssemblyInfoInputs.cache
+C:\Users\Anner\source\repos\EjercicioClase1\EjercicioClase1\obj\Debug\netcoreapp3.1\EjercicioClase1.AssemblyInfo.cs
+C:\Users\Anner\source\repos\EjercicioClase1\EjercicioClase1\obj\Debug\netcoreapp3.1\EjercicioClase1.csproj.CoreCompileInputs.cache
+C:\Users\Anner\source\repos\EjercicioClase1\EjercicioClase1\obj\Debug\netcoreapp3.1\EjercicioClase1.dll
+C:\Users\Anner\source\repos\EjercicioClase1\EjercicioClase1\obj\Debug\netcoreapp3.1\EjercicioClase1.pdb
+C:\Users\Anner\source\repos\EjercicioClase1\EjercicioClase1\obj\Debug\netcoreapp3.1\EjercicioClase1.genruntimeconfig.cache

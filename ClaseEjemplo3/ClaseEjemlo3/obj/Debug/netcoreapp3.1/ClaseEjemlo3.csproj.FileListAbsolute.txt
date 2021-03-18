@@ -1,0 +1,13 @@
+C:\Users\Anner\source\repos\ClaseEjemlo3\ClaseEjemlo3\bin\Debug\netcoreapp3.1\ClaseEjemlo3.exe
+C:\Users\Anner\source\repos\ClaseEjemlo3\ClaseEjemlo3\bin\Debug\netcoreapp3.1\ClaseEjemlo3.deps.json
+C:\Users\Anner\source\repos\ClaseEjemlo3\ClaseEjemlo3\bin\Debug\netcoreapp3.1\ClaseEjemlo3.runtimeconfig.json
+C:\Users\Anner\source\repos\ClaseEjemlo3\ClaseEjemlo3\bin\Debug\netcoreapp3.1\ClaseEjemlo3.runtimeconfig.dev.json
+C:\Users\Anner\source\repos\ClaseEjemlo3\ClaseEjemlo3\bin\Debug\netcoreapp3.1\ClaseEjemlo3.dll
+C:\Users\Anner\source\repos\ClaseEjemlo3\ClaseEjemlo3\bin\Debug\netcoreapp3.1\ClaseEjemlo3.pdb
+C:\Users\Anner\source\repos\ClaseEjemlo3\ClaseEjemlo3\obj\Debug\netcoreapp3.1\ClaseEjemlo3.csprojAssemblyReference.cache
+C:\Users\Anner\source\repos\ClaseEjemlo3\ClaseEjemlo3\obj\Debug\netcoreapp3.1\ClaseEjemlo3.AssemblyInfoInputs.cache
+C:\Users\Anner\source\repos\ClaseEjemlo3\ClaseEjemlo3\obj\Debug\netcoreapp3.1\ClaseEjemlo3.AssemblyInfo.cs
+C:\Users\Anner\source\repos\ClaseEjemlo3\ClaseEjemlo3\obj\Debug\netcoreapp3.1\ClaseEjemlo3.csproj.CoreCompileInputs.cache
+C:\Users\Anner\source\repos\ClaseEjemlo3\ClaseEjemlo3\obj\Debug\netcoreapp3.1\ClaseEjemlo3.dll
+C:\Users\Anner\source\repos\ClaseEjemlo3\ClaseEjemlo3\obj\Debug\netcoreapp3.1\ClaseEjemlo3.pdb
+C:\Users\Anner\source\repos\ClaseEjemlo3\ClaseEjemlo3\obj\Debug\netcoreapp3.1\ClaseEjemlo3.genruntimeconfig.cache
